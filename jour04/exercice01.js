@@ -7,7 +7,7 @@ let cat = {
 console.log(cat);
 console.log(cat.age);
 
-if(cat.isCute === true){
+if(cat.isCute){
     console.log("So cute !");
 }
 else{
