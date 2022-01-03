@@ -8,4 +8,4 @@ function format(num){
     console.log(horaire);
 }
 
-format(5300); 
+format(3700);
