@@ -1,8 +1,9 @@
 let somme = 0;
 
 for (let i = 100; i<1001; i++){
-    somme = (Math.floor(i/7));
+    if(i%7===0){
+        somme += 1;
+    }
 }
 
 console.log(somme);
-console.log(i%7/7);
