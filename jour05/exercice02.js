@@ -12,7 +12,6 @@ function multiply(int){
 
 multiply();
 
-var multiply2 = require("./tables-utils");
+var addition2 = require("./tables-utils");
 
-multiply2(2,6);
-
+addition2(2,6);
