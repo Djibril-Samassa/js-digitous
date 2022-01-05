@@ -1,7 +1,6 @@
 
 function calculate(nb1, string, nb2) {
 
-
     nb1 = parseInt(process.argv[2]);
     nb2 = parseInt(process.argv[4])
 
